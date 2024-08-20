@@ -1,3 +1,16 @@
 body {
     font-family: sans-serif;
 }
+
+#newRecipeButton {
+    border: none;
+    border-radius: 10px;
+    padding: 5px 15px;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+#newRecipeButton:hover {
+    background-color: aquamarine;
+    cursor: pointer;
+}
