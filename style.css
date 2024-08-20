@@ -2,6 +2,15 @@ body {
     font-family: sans-serif;
 }
 
+#topNav {
+    width: 55%;
+    margin: 0 auto;
+    border: none;
+    border-radius: 10px;
+    background-color: lightgray;
+    background-color: lightgray;
+}
+
 #container {
     display: flex;
     align-items: center;
